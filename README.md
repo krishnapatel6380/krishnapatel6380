@@ -8,6 +8,12 @@ I have hands-on experience in Android development using **Kotlin** and **Java**,
 
 I am self-motivated and always eager to learn new technologies and improve my skills.
 
+During my time at Frontlink Technology, I contributed to the development of several Android apps available on the Play Store, including:
+
+- [Gallery photo: Gallery lock](https://play.google.com/store/apps/details?id=com.threestar.gallery) — 50M+ downloads  
+- [Gallery: Photo & Video Manager](https://play.google.com/store/apps/details?id=com.photo.editor.photoeditorpro.collagemaker)  
+- [PDF Reader - PDF Viewer](https://play.google.com/store/apps/details?id=pdf.reader.pdfviewer.pdfeditor.imagetopdf.pdfconverter)
+
 ### Tech Stack
 
 - Kotlin, Java  
@@ -24,10 +30,6 @@ I am self-motivated and always eager to learn new technologies and improve my sk
 - Working on personal and open-source projects  
 - Growing expertise in full-stack and AI/ML   
 - Open to software development and mobile development roles
-
-### Languages
-
-English | Gujarati | Hindi | Learning Finnish
 
 ---
 
