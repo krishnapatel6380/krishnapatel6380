@@ -1,4 +1,4 @@
-# Hi, I’m Krishna patel 👋
+# Hi, I’m Krishna Patel 👋
 
 ## About Me
 
